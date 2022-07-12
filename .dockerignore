@@ -1,0 +1,15 @@
+.tmp/
+.cache/
+.git/
+build/
+node_modules/
+data/
+Dockerfile
+docker-compose.yml
+.eslintrc
+*.env
+.eslintrcignore
+.gitignore
+.tmp
+.editorconfig
+npx create-strapi-app@latest strapi --quickstart
